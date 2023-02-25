@@ -1,4 +1,4 @@
-# co2d7409da6d2496960005c75
+# Bussines Card (Scrimba Challenge)
 
 Quick start:
 
